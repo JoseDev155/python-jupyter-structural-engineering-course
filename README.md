@@ -2,6 +2,10 @@
 
 Repositorio dedicado a las notas del curso.
 
+## Versión de Python utilizada
+
+* Python: `3.13.1`
+
 ## Detalles del curso
 
 - Instructor: [Structural Tech](https://www.youtube.com/@StructuralTech-py)
