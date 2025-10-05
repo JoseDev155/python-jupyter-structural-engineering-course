@@ -2,9 +2,11 @@
 
 Repositorio dedicado a las notas del curso.
 
-## Versión de Python utilizada
+## Versiones de Python utilizadas
 
-* Python: `3.13.1`
+* Python: `3.13.1`, `3.9.13`
+
+Se recomienda utilizar la versión `3.9.13` para el curso, por lo que se recomienda instalar manualmente las librerías en aquellos proyectos que se utilizó la versión `3.13.1`.
 
 ## Detalles del curso
 
