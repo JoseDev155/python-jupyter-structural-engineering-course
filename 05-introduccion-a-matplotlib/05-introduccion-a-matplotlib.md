@@ -129,4 +129,4 @@ pip install -r requirements.txt
 
 ## Versión de Python usada
 
-* Python **3.9.13**
+* Python **3.13.1**
