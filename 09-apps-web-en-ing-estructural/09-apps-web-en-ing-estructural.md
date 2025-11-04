@@ -82,9 +82,3 @@ http://localhost:8501/
 ## Aplicación vista en clase
 
 * Enlace a GitHub: [Repositorio del Taller](https://github.com/efradev/TallerAppWeb)
-
----
-
-## Versión de Python usada
-
-* Python **3.13.1**
